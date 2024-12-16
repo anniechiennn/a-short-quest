@@ -1,5 +1,5 @@
 # A Quest in Time
-[## **Play now on Replit**](https://replit.com/@annieiachien/A-Quest-in-Time#main.py)
+[**Play now on Replit**](https://replit.com/@annieiachien/A-Quest-in-Time#main.py)
 
 ## Overview
 *A Quest in Time* is an interactive, text-based adventure game where players navigate a mysterious, time-bending storyline. With choices influencing the direction of the story, players must explore, battle, and decide their fate in a world disrupted by the escape of Chronos, the primordial being of time. Will you save the world, forge unlikely alliances, or succumb to the forces of nature?
