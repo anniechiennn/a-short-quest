@@ -65,7 +65,7 @@ Planned updates include:
 
 3. Run the game:
    ```bash
-   python a_short_quest.py
+   python a_quest_in_time.py
    ```
 
 ## Contributing
