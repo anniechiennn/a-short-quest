@@ -967,7 +967,7 @@ def start_game():
 			break
 		elif start_choice == "n":
 			typewriter("You fall into eternal slumber and eventually fade to ashes.")
-			play_again()
+			start_game()
 			break
 		else:
 			typewriter("Invalid input. Please enter Y or N.")
